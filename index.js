@@ -22,5 +22,5 @@ class BoardMember {
 }
 
 class Ceo extends User {
-  
+
 }
